@@ -8,7 +8,7 @@ public class Main {
 
     long actual = service.calculate(amount, registered);
 
-    boolean passed = expected == actual;
+    boolean passed = expected == acytual;
 
     System.out.println(passed);
 
